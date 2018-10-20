@@ -1,0 +1,2 @@
+Sitemap: http://selton.cn/sitemap.xml
+Sitemap: http:///selton.cn/baidusitemap.xml
